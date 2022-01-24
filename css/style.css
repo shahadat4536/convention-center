@@ -4,7 +4,7 @@ body{
     font-family: 'Poppins', sans-serif;
     
 }
-
+/* card style */
 .card-ho:hover{
     background-color: #3F87F5;
     color: white;
@@ -19,6 +19,7 @@ body{
     transition: .2s linear ;        
 }
 
+/* Contact & Newsletter style */
 .subscribe{
     background-color: rgb(160, 155, 160);
 }
