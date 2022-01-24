@@ -8,17 +8,18 @@ body{
 .card-ho:hover{
     background-color: #3F87F5;
     color: white;
-    transform:  translateY(-40px);
+    transform:  translateY(-20px);
     box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
     
 }
 
 
 .card-ho{
-    
+    box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
     transition: .2s linear ;        
 }
 
 .subscribe{
     background-color: rgb(160, 155, 160);
 }
+
